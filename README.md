@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/analeticiaa">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=analeticiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeticiaa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=analeticiaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analeticiaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##

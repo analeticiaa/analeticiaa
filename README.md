@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/c9e65f809f44ddfd776d753b1c44baeb.gif">
+<img align="right" alt="Ana-pic" height="200" width="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/c9e65f809f44ddfd776d753b1c44baeb.gif">
   
 
 

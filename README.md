@@ -1,30 +1,39 @@
-## Oiii, eu sou a Ana Letícia!
 
-<div align="center">
-  
-<p align="center">
+## ✨ Oiii, eu sou a Ana Letícia! ✨
+
+
+<div align="left">
+
+<img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="download20221106003026.png">
+
+
+<p align="left">
 🌱 Atualmente estudo Engenharia de Software na UnB 
 </p> 
 
-<p align="center">
+<p align="left">
 💞️ Gosto de aprender sobre dados 
 </p> 
   
-<p align="center">
+<p align="left">
   💼 Skills: <strong>Superar obstáculos com um grande sorriso</strong>
 </p>
   
-<p align="center">
+<p align="left">
   🚀  Aprendendo: Java, C, Assembly, Python, SQL
 </p>
 
-<p align="center">
-💌 Text me: ⤵️ 
+<p align="left">
+💌 Me manda uma mensagem: ⤵️ 
 </p> 
 
-<p align="center"> 
-  <a href = "mailto:analeticiampereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/analeticiaa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left"> 
+  <a href = "mailto:analeticiampereira@gmail.com">
+  <img height="32em" width="100em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/analeticiaa" target="_blank">
+  <img height="32em" width="150em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
   
 </p>
 

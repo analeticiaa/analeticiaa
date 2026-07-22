@@ -9,19 +9,19 @@
 
 
 <p align="left">
-🌱 Atualmente estudo Engenharia de Software na UnB 
+🌱 Engenheira de Software pela UnB 
 </p> 
 
 <p align="left">
-💞️ Gosto de aprender sobre dados 
+💞️ Analista de dados há mais de 4 anos 
 </p> 
   
 <p align="left">
-  💼 Skills: <strong>Superar obstáculos com um grande sorriso</strong>
+  💼 Skills: <strong>Gerar insights sobre logística e e-commerce</strong>
 </p>
   
 <p align="left">
-  🚀  Aprendendo: Java, C, Assembly, Python, SQL
+  🚀  Python, SQL, dbt, GCP
 </p>
 
 <p align="left">
